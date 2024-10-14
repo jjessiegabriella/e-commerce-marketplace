@@ -10,11 +10,9 @@ A lightweight e-commerce platform that allows users to browse, search, and purch
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Configuration](#configuration)
-5. [Testing](#testing)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Authors and Acknowledgments](#authors-and-acknowledgments)
-9. [Contact Information](#contact-information)
+5. [Contributing](#contributing)
+6. [License](#license)
+8. [Contact Information](#contact-information)
 
 ---
 
